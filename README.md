@@ -1,8 +1,12 @@
 # Research Practicum 2018 – Research Plan (Template)
 (text between brackets to be removed)
 
-> * Group Name: (be creative!)
-> * Group participants names: (alphabetically sorted by last name)
+> * Group Name: Back to nature - less stress
+> * Group participants names: Andres Hanchi
+
+                              Markus Loennig
+                              
+                              Mark Mailloux
 > * Project Title: (can be changed later)
 
 ## General Introduction
