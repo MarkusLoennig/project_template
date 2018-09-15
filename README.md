@@ -20,15 +20,21 @@ There are several areas where directed attention is vital, be it in medicine, en
 
 (Put the problem into a historical context, from what does it originate? Are there already some proposed solutions?)
 
-
+The observation of "voluntary attention", its effects and needs were first descibed by William James (1892). Since then the theory and research have been on hold until about 1985. Most current research was done by Stephen Kaplan.  
 
 (I tell sutdents to answer the questions, one paragaph each to start if you are lost)
 
 (Problem Statement. One paragraph to describe the prob-lem that you are tackling.)
 
+Acknowledging that directed attention is highly important and that this process is suspectible to fatigue, how can it be restored?
+
 (Motivation. Why is this problem interesting and relevant to the research community?)
 
+Improving effectiveness, restoring focus and improving the ability to inhibit distractions is self explainatory.  
+
 (Proposed Solution. How do we propose to tackle this problem (that has been identified in the previous para-graphs, is interesting to the community, and has yet to be tackled by other researchers)?)
+
+In the context of restoring attention and relieving stress, viewing or immersing in nature has repeatedly shown positive effects. Our research aims at validating/reconstructing some of the more recent research by using nature scenes under Virtual Reality.    
 
 (Contributions. An enumeration of the contributions of the senior design project)
 
