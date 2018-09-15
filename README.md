@@ -1,13 +1,9 @@
 # Research Practicum 2018 – Research Plan (Template)
 (text between brackets to be removed)
 
-> * Group Name: Back to nature - less stress
-> * Group participants names: Andres Hanchi
-
-                              Markus Loennig
-                              
-                              Mark Mailloux
-> * Project Title: (can be changed later)
+> * Group Name: Back to nature (- for less stress)
+> * Group participants names: Andres Hanchi, Markus Loennig, Mark Mailloux
+> * Project Title: Restorative benefits of **virtual reality** nature for the **recovery of attentional fatigue** and **stress reduction**
 
 ## General Introduction
 
