@@ -1,15 +1,16 @@
 # Research Practicum 2018 – Research Plan (Template)
 (text between brackets to be removed)
 
-> * Group Name: (be creative!)
-> * Group participants names: (alphabetically sorted by last name)
-> * Project Title: (can be changed later)
+> * Group Name: Back to nature (- for less stress)
+> * Group participants names: Andres Hanchi, Markus Loennig, Mark Mailloux
+> * Project Title: Restorative benefits of virtual reality nature for the recovery of attentional fatigue and stress reduction
+
 
 ## Relevant Sources
 
 (3-5 main sources)
 
-* Source 1
+* Kaplan, S. (1995). The restorative benefits of nature: Toward an integrative framework. Journal of environmental psychology, 15(3), 169-182.
 * Source 2
 * [Hawking, S. W. (1974). Black hole explosions?. Nature, 248(5443), 30.](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.75.3702&rep=rep1&type=pdf)
 
