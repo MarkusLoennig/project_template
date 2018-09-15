@@ -10,7 +10,7 @@
 
 (3-5 main sources)
 
-* Kaplan, S. (1995). The restorative benefits of nature: Toward an integrative framework. Journal of environmental psychology, 15(3), 169-182.
+* [Kaplan, S. (1995). The restorative benefits of nature: Toward an integrative framework. Journal of environmental psychology, 15(3), 169-182.](relevant_papers/Resorces/The restorative benefits of nature_Toward an integrative framework.pdf)
 * Source 2
 * [Hawking, S. W. (1974). Black hole explosions?. Nature, 248(5443), 30.](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.75.3702&rep=rep1&type=pdf)
 
