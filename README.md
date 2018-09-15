@@ -8,8 +8,19 @@
 ## General Introduction
 
 (States your motivation clearly: why is it important / interesting to solve this problem?)
+
+In order to solve problems, deliver outstanding work or just to work focussed and concentrated on a task requires to voluntarily direct attention. 
+According to Kaplan, S.(1995), this focus of attention, the deliberate mental activity in the face of (negatively impacting) distraction requires effort and is suspectible to fatigue. 
+Directed attention is a key ingredient in human effectiveness and achivements and therefore its fatigue can have severe consequences (e.g. airplane pilots, nuclear power plant operators, brain surgeons).
+
+
 (Add real-world examples, if any)
+
+There are several areas where directed attention is vital, be it in medicine, engineering or piloting, just to name a few. But it has much broader real live implications. Directed or focussed attention is needed for most of our daily activities, even in the university as a student. While not being vital per definition, the ability to work in a concentrated fashion to deliver outstanding work decides over students grades and therfore also at least partly over their/our future. Recovery from directed attention fatigue restores effectiveness, which will have an immediate impacts of the overall, general live situation (better, more effective time management).  
+
 (Put the problem into a historical context, from what does it originate? Are there already some proposed solutions?)
+
+
 
 (I tell sutdents to answer the questions, one paragaph each to start if you are lost)
 
