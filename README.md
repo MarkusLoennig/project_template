@@ -11,10 +11,7 @@
 
 In order to solve problems, deliver outstanding work or just to work focussed and concentrated on a task requires to voluntarily direct attention. 
 According to Kaplan, S.(1995), this focus of attention, the deliberate mental activity in the face of (negatively impacting) distraction requires effort and is suspectible to fatigue. 
-Directed attention is a key ingredient in human effectiveness and achivements and therefore its fatigue can have severe consequences (e.g. airplane pilots, nuclear power plant operators, brain surgeons).
-
-#very nice -Marc
-
+Directed attention is a key ingredient in human effectiveness and achievments and therefore its fatigue can have severe consequences (e.g. airplane pilots, nuclear power plant operators, brain surgeons).
 
 (Add real-world examples, if any)
 
