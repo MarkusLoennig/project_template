@@ -22,7 +22,7 @@
 (Summerize/Describe the paper in 3-5 sentences)
 (Executive summary of your whole review in 2-3 sentences)
 
-The restorative benefits of nature: Toward an integrative framework, Kaplan, S. (1995). 
+* **The restorative benefits of nature: Toward an integrative framework, Kaplan, S. (1995).** 
 
 The paper points out the 2 conflicting positions in theory of stress reduction and recovery of focus/attention. Directed attention and possible fatigue are described and it is emphasized that directed attention is a key ingredient in human effectiveness and its fatigue a key ingredient in human error. The purpose of the article is to propose a framework to find an integrated theory of stress that permits a significant role for attention. The study/proposal works out the factors leading to stress as resource inadequacy or resource depletion, in which Kaplan defines attention as a more basic, underlying resource (in the context of stress theory). Both stress and attention fatigue benefit from restorative nature experiences and can help prevent both by recovery of essential resources.
 
