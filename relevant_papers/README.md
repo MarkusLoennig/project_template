@@ -34,6 +34,8 @@ Kaplans theoretical approach to a common framework needs introduction into both 
 
 The huge number of references are from a broader approach to his topic, from current dates (where applicable), relevant and help him draw the bridge with the respective research to integrate both theories.  
 
+According to Google Scholar, this article has been cited 3495 times. 
+
 #### Reproducibility
 
 There is no research involved to reproduce. His theories and conclusion can be followed. 
