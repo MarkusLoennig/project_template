@@ -56,7 +56,7 @@ The article is misleading when the title and abstract are considered: Natural en
 ## Review
 
 (which paper)
-* **TRelaxation with Immersive Natural Scenes Presented Using Virtual Reality**
+* **Relaxation with Immersive Natural Scenes Presented Using Virtual Reality**
 
 (Summerize/Describe the paper in 3-5 sentences)
 This study proposes 2 hypotheses based on Attention Restoration theory (ART) delivered through Virtual Reality (VR). The first hypothesis claimed that natural scenes can reduce stress better than indoor scenes, while the second hypothesis claimed that the preference of the individual for a specific natural scene will have more restorative results. 
