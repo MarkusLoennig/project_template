@@ -12,8 +12,6 @@
 
 * [Kaplan, S. (1995). The restorative benefits of nature: Toward an integrative framework. Journal of environmental psychology, 15(3), 169-182.](https://github.com/MarkusLoennig/project_template/blob/master/relevant_papers/Resources/The%20restorative%20benefits%20of%20nature_Toward%20an%20integrative%20framework.pdf)
 * [Anderson, A. P., Mayer, M. D., Fellows, A. M., Cowan, D. R., Hegel, M. T., & Buckey, J. C. (2017). Relaxation with Immersive Natural Scenes Presented Using Virtual Reality. Aerospace Medicine & Human Performance, 88(6), 520–526. Retrieved from https://login.ezproxy.net.ucf.edu/login?auth=shibb&url=https://search-ebscohost-com.ezproxy.net.ucf.edu/login.aspx?direct=true&db=sph&AN=123479076&site=eds-live&scope=site]
-* Source 3
-* [Hawking, S. W. (1974). Black hole explosions?. Nature, 248(5443), 30.](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.75.3702&rep=rep1&type=pdf)
 * Berman, M. G. (2008). The restorative benefits of interacting with nature: Cognitive and neuroscientific perspectives. PsycEXTRA Dataset. doi:10.1037/e533002014-001
 
 
