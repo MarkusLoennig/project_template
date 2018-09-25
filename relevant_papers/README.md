@@ -87,66 +87,66 @@ The hardware and software used for VR are standard COTS products, the tools used
 
 I gave this paper a 4 because the article is written in a way that is easy to follow and understand, there is a good review of past work, the methods use are easy to understand and the data provided was well structured,  the only reason why I did not give this paper a 5 is because I wasn’t able to answer whether the nature setting does relieve stress or the non-nature settings doesn’t allow for stress to be relieved.
 
-##Review
+## Review
 
-#Title of Article:  The Cognitive Benefits of Interacting With Nature
-
-
-
-###Authors: Marc Berman, John Jonides, Stephen Kaplan
-
-###Journal Name, Volume, page #’s: PSYCHOLOGICAL SCIENCE_____
+# Title of Article:  The Cognitive Benefits of Interacting With Nature
 
 
 
+### Authors: Marc Berman, John Jonides, Stephen Kaplan
 
-###Introduction: 
+### Journal Name, Volume, page #’s: PSYCHOLOGICAL SCIENCE_____
+
+
+
+
+### Introduction: 
 Providing background with the Attention Restoration Theory(ART). Uses other papers are references to help provide a framework specifically the difference between voluntary and involuntary attention. The authors frame this to so they can validate the theory through their experiment
 
 
 
-###Purpose/Objective of Research:  
+### Purpose/Objective of Research:  
 Perform experiments validating the Attention Restoration Theory by comparing cognitives function effects from urban and natural environments
 
 
 
-###Research Hypothesis:
+### Research Hypothesis:
 walking in nature or looking at a photo of nature will improve directed-attention abilities as measured with a backwards digit-span task and the Attention Network Task, thus validating attention restoration theory.
 
-###Overview of Methodology:
+### Overview of Methodology:
 
 Subject Characteristics:_Students from the university of Michigan, 23 females, 15 males, average age 22.62 years, and all participants were paid $20
 
-###General Methodology:
-####Experiment 1
+### General Methodology:
+#### Experiment 1
 Participants were given the Positive and Negative Affect Schedule (PANAS) to assess current mood, then asked to repeat sequences of numbers ranging from 3 to 9 backwards. After the backwards digit-spanning task the participants were given a directed-forgetting task that involved the suppression of information in short-term memory, which was used to fatigue participants further. The task consisted of 144 trials and lasted for 35 min. The participants were then randomly picked to take a nature walk or urban walk for 50 to 55mins, and a GPS tracker were given to the participants to ensure they were in the right setting. After the walks the participants were given the backwards digit-spanning task again along with the PANAS assessment, finishing the experiment.A week later participants were given the same procedure again, while walking in a complimentary position.
 
-####Experiment 2:
+#### Experiment 2:
 Participants were given the PANAS, and the backwards digit-spanning task as in experiments 1. In contrast to experiment 1, the participants were given the Attention Network Test(ANT) which identifies three different attentional functions: Alerting, Orientating, and Executive Attention. (We predicted that interactions with nature would improve only executive functions, but not alerting and orienting, because these latter two functions require less cognitive control compared to executive functions). After the ANT, participants were shown pictures of either nature scenes or urban city scenes for 10mins, where each photo was shown for 7s. After each photo the participant rated from 1 to 3 how much they liked the photo. Once finished with all of the phots, the participants performs the backwards digit-spanning task, the ANT, and the PANAS assessments again. The participants came a week later to repeat the procedure but with complimentary photos.
 
 
-###Research Environment:
+### Research Environment:
 In the researchers office/lab and in the city itself whether it is in the urban or natural environments.
 
 
 
-###Data Collection  Approach: 
+### Data Collection  Approach: 
 Data was collected using the PANAS, backwards digit-spanning task, and the ANT to provide a basis for measures. In so relative data to these measures were collected from the participants. 
 
-##Overview of Results:
+## Overview of Results:
 From looking at the Experiment 1’s results the values are both higher after the walks but the natural setting is higher in the Backward Span Measure. In experiment 2 the results closely followed for the Backward span measure. Additionally looking at the ANT measure effects there were some mixed results, although the authors hypothesized only the executive functions would decrease in the participants in the natural setting. The participants in the urban setting actually took longer on their executive and alerting levels. 
 
-##Did study accomplish objective(s)?
+## Did study accomplish objective(s)?
 Yes because experiment 1 as participants in the natural setting vastly improved their results after their walk vs the urban setting participants. Additionally in experiments 2 the authors repeated the studies in experiment 1 and the results were replicated. Lastly the ANT measures show that after the participants view photos of natural settings their executive cognitions increase. This is because directed attention involves executive tasks and can be restored through ART methods. _________________________________________________________
 
 
-###Was Hypothesis proven? 
+### Was Hypothesis proven? 
 YES
 
 
-#Conclusions/Discussion: 
+# Conclusions/Discussion: 
 
-###What were the conclusions of the study?:
+### What were the conclusions of the study?:
 “We can be confident that directed-attention mechanisms were restored in these studies because only portions of the ANT that involved directed attention were improved by interactions with nature.” 
 
 -“Each of our experiments showed consistent improvement on the backwards digit-span task as a function of interactions with nature.”
@@ -158,20 +158,20 @@ YES
 
 
 
-#Your perceptions of article:  
+# Your perceptions of article:  
 
 
-##What would you have changed about the methodology if anything and why ?
+## What would you have changed about the methodology if anything and why ?
 -The authors point out at the end other comparison methods that also restores the directed attention. I think a third and fourth set could of been looked at. For example adding someone who meditates after the first assessments, and assess them after they have meditated and see how the compared to those in nature
 
-##Do the conclusion seem reasonable?
+## Do the conclusion seem reasonable?
 I agree that it does, because their results and research design didn’t have flaws. The researchers made sure to have truthful data to analyze when they were performing experiments. Additionally they performed the 2nd experiment different from actually being in nature and instead looking at a photo. This helps to see that the setting doesn’t matter but possibly the participants perception as participants for the natural and urban settings were just sitting in chairs looking at the respective photos. Either or it is the direct influence of Nature that seems to have a restorative effect and through their experiments and results this can be seen.
 
 
 
 
 
-##Where would you apply the results of this study?
+## Where would you apply the results of this study?
 I would apply these results as standards to verify on another population with different methods like VR.
 Can we validate this studies methodology using VR? From the photos I would assume yes.
 
@@ -179,7 +179,7 @@ Can we validate this studies methodology using VR? From the photos I would assum
 
 
 
-##Additional comments about the article
+## Additional comments about the article
 I really liked how they had two experiments and the second was similar but different from experiment 1. Both though help define the problem at hand and give insight into the interworking of these phenomena. Lastly further comparison of restorative methods would be interesting to compare.
 
 
