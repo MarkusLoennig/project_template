@@ -62,5 +62,12 @@ From looking at the Experiment 1’s results the values are both higher after th
 Berman, M. G. (2008). The restorative benefits of interacting with nature: Cognitive and neuroscientific perspectives. PsycEXTRA Dataset. doi:10.1037/e533002014-001
 
 
+#Research Methods
 
+
+I had some thoughts, we could use the same method in the paper I read and did my lit review on and use the backwards digit span task. I was also thinking we should assess different types of senses in terms of attention. So for instance a sound test (where users acknowledge if they heard a number amount of beep in a specified ear), or a visual test like this: https://www.youtube.com/watch?v=_bnnmWYI0lM
+So I guess we would do something similar but just test for more senses relative to attention with the assessments and VR. In essense Assessments -> VR relaxation -> reasssessment -> repeat -> analysis results
+	
+Let me know what you guys think!
+-Marc 
 
