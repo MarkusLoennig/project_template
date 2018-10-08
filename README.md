@@ -19,27 +19,27 @@ There are several areas where directed attention is vital, be it in medicine, en
 
 (Put the problem into a historical context, from what does it originate? Are there already some proposed solutions?)
 
-The observation of "voluntary attention", its effects and needs were first descibed by William James (1892). Since then the theory and research have been on hold until about 1985. Most current research was done by Stephen Kaplan.  
+The observation of "voluntary attention", its effects and needs were first descibed by William James (1892). Since then the theory and research have been on hold until about 1985. Most current research was done by Stephen Kaplan. One of the latest studies by Berman aim to validated the Attention Restoration Theory in Nature where participants in nature or viewing pictures of nature reduced their direct attention levels. Today's proposed solutions are pairing this theory with VR methodology, since VR is becoming more accessible. Additionally VR's immercive envirnment could effect attentino restoration in positive ways by simulation Nature in VR. 
+
 
 (I tell sutdents to answer the questions, one paragaph each to start if you are lost)
 
 (Problem Statement. One paragraph to describe the prob-lem that you are tackling.)
+Everything today is extremely faced paced with data and information everywhere. Too much information can overload our systems, and as a result stresses us out. This stress can result from the inability to focus and people of today have developed many methods coping with stress and their ability to pay attention at the task at hand. Studies have shown that when participants surround themselves in Nature or view photos of Nature, this restores the users attention abilities compared to urban areas. This study aims to finding an optimal time when participants view nature settings under VR. 
 
 Acknowledging that directed attention is highly important and that this process is suspectible to fatigue, how can it be restored?
 
 (Motivation. Why is this problem interesting and relevant to the research community?)
 
-Improving effectiveness, restoring focus and improving the ability to inhibit distractions is self explainatory.  
+Improving effectiveness, restoring focus and improving the ability to inhibit distractions is self explainatory. Additionally other studies have not looked at the timing it takes for one to relax, just in the variables themselves. From previous studies the ART method has been validated, and so the next question is how long does it take for one to be in a relaxed state.
 
 (Proposed Solution. How do we propose to tackle this problem (that has been identified in the previous para-graphs, is interesting to the community, and has yet to be tackled by other researchers)?)
 
 In the context of restoring attention and relieving stress, viewing or immersing in nature has repeatedly shown positive effects. Our research aims at validating/reconstructing some of the more recent research by using nature scenes under Virtual Reality.    
 
 (Contributions. An enumeration of the contributions of the senior design project)
-
-(This project makes the following contributions:)(you must have this!!)
-•	(Contribution 1)
-•	(Contribution 2)
+This project makes the following contributions:
+•	Analyzing the difference in nature relaxation times under VR, specfically looking at 5,10, and 15 mins
 
 
 ## Related Work
