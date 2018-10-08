@@ -70,11 +70,11 @@ In essense Assessments -> VR relaxation -> reasssessment -> repeat -> analysis r
 In addition we plan to analyze the data using the code R inorder to give a proper visualization
 
 #needs for research methods:
-	Survery (quantative)
-	testing procedure : (Stressor) ANT , backwards digit, measured ANT , Nature VR, Measure ANT
-	Better description of research methods
-	how we plan on manuiplating the data (response time, failure rate)
-	What is significant result, expecation laid by previous work
+	1.Survery (quantative)
+	2. testing procedure : (Stressor) ANT , backwards digit, measured ANT , Nature VR, Measure ANT
+	3. Better description of research methods
+	4. how we plan on manuiplating the data (response time, failure rate)
+	5. What is significant result, expecation laid by previous work
 
 ## References 
 
