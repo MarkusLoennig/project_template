@@ -69,7 +69,7 @@ Berman, M. G. (2008). The restorative benefits of interacting with nature: Cogni
 
 Anderson, A. P., Mayer, M. D., Fellows, A. M., Cowan, D. R., Hegel, M. T., & Buckey, J. C. (2017). Relaxation with Immersive Natural Scenes Presented Using Virtual Reality. Aerospace Medicine & Human Performance, 88(6), 520–526. Retrieved from https://login.ezproxy.net.ucf.edu/login?auth=shibb&url=https://search-ebscohost-com.ezproxy.net.ucf.edu/login.aspx?direct=true&db=sph&AN=123479076&site=eds-live&scope=site
 
-#Research Methods
+## Research Methods
 
 The research design is to bring in participants and assess them for baseline stats. These assessments include the PANAS, ANT and Backwards Digit Span task. Once the participants baselines are measured, they are given given a headset with a card labeled A, B , or C. The letters refer to the time allowed for the relaxation via VR. A is 5minutes, B is 10 minutes, C is 15minutes. After the VR session is over the assessemnts are given again, and 
 
