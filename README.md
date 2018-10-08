@@ -9,13 +9,14 @@
 
 (States your motivation clearly: why is it important / interesting to solve this problem?)
 
-In order to solve problems, deliver outstanding work or just to work focussed and concentrated on a task requires to voluntarily direct attention. 
-According to Kaplan, S.(1995), this focus of attention, the deliberate mental activity in the face of (negatively impacting) distraction requires effort and is suspectible to fatigue. 
-Directed attention is a key ingredient in human effectiveness and achievments and therefore its fatigue can have severe consequences (e.g. airplane pilots, nuclear power plant operators, brain surgeons).
+In order to solve problems, deliver outstanding work or just to work focused and concentrated on a task requires to voluntarily direct attention. According to Kaplan (1995) and his Attention Restoration Theory (ART), this focus of attention, the deliberate mental activity in the face of (negatively impacting) distraction requires effort and is susceptible to fatigue. Directed attention is a key ingredient in human effectiveness and achievements and therefore its fatigue can have severe consequences (e.g. airplane pilots, nuclear power plant operators, brain surgeons).
+
+Several studies based on ART have shown the positive effects that nature and/or nature scenes can have on measured attention and even stress. In one of the latest studies, performed by Anderson et al. (2017), significant positive attention restoration was measured after 15 minutes exposures to different nature scenes (Ireland, Beach) compared to the control scene results.
 
 (Add real-world examples, if any)
 
-There are several areas where directed attention is vital, be it in medicine, engineering or piloting, just to name a few. But it has much broader real live implications. Directed or focussed attention is needed for most of our daily activities, even in the university as a student. While not being vital per definition, the ability to work in a concentrated fashion to deliver outstanding work decides over students grades and therfore also at least partly over their/our future. Recovery from directed attention fatigue restores effectiveness, which will have an immediate impacts of the overall, general live situation (better, more effective time management).  
+There are several areas where directed attention is vital, be it in medicine, engineering or piloting, just to name a few. But it has much broader real live implications. Directed or focused attention is needed for most of our daily activities, even in the university as a student. While not being vital per definition, the ability to work in a concentrated fashion to deliver outstanding work decides over students’ grades and therefore also at least partly over their/our future. Recovery from directed attention fatigue restores effectiveness, which will have an immediate impact of the overall, general live situation (better, more effective time management).
+  
 
 (Put the problem into a historical context, from what does it originate? Are there already some proposed solutions?)
 
