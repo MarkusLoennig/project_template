@@ -42,18 +42,6 @@ In the context of restoring attention and relieving stress, viewing or immersing
 This project makes the following contributions:
 •	Analyzing the difference in nature relaxation times under VR, specfically looking at 5,10, and 15 mins
 
-
-## Research Methods
-
-The research design is to bring in participants and assess them for baseline stats. These assessments include the PANAS, ANT and Backwards Digit Span task. Once the participants baselines are measured, they are given given a headset with a card labeled A, B , or C. The letters refer to the time allowed for the relaxation via VR. A is 5minutes, B is 10 minutes, C is 15minutes. After the VR session is over the assessemnts are given again, and 
-
-I had some thoughts, we could use the same method in the paper I read and did my lit review on and use the backwards digit span task. I was also thinking we should assess different types of senses in terms of attention. So for instance a sound test (where users acknowledge if they heard a number amount of beep in a specified ear), or a visual test like this: https://www.youtube.com/watch?v=_bnnmWYI0lM
-So I guess we would do something similar but just test for more senses relative to attention with the assessments and VR. In essense Assessments -> VR relaxation -> reasssessment -> repeat -> analysis results
-	
-Let me know what you guys think!
--Marc 
-
-
 ## Related Work
 
 Discuss briefly about published matter that technically relates to your proposed work in 4-5 paragraphs.
@@ -72,7 +60,21 @@ Another report discusses the results of a study conducted using Attention Restor
 	This study posed 2 hypotheses, the first one claimed that nature scenes can reduce stress better than non-nature scenes, while the second hypothesis stated that the preference of the nature scene will have more restorative results than the other nature scene. Several devices were used to record stress level activity, questionnaires were also used to assess the perception the subject’s perception of their own stress level.
 	During the experiment the subjects wore the monitoring the devices to create a baseline, then a timed math test was provided to induce a certain stress level on the subjects, after raising the stress level, the subjects were placed under the VR scenes for 15 minutes. This process was repeated again with all of the other scenes and the order of the scenes were randomized. The monitoring devices recorded stress level throughout the whole experiment, while the questionnaires were provided to the subject before and after the VR sessions. 
 	The study produced results in accordance with the first hypothesis. The subject displayed and expressed that after being stressed, the natural scene relieved stress more significantly than the non-nature scene. On the other hand, the second hypothesis did not show a significant difference between the nature scene of choice and the other nature scene according to the monitoring sensors, but according to the perception of the subjects it did.
+	
+## Research Methods
+Methods to be used are gathering quantative data, where we to plan meassure participants repsonse times before and after being in nature under VR.
 
+Test participants are given some attention intensive exams, then give a survey and a baseline ANT test for about 10mins. After these assessments the particpants will be given either 10mins or 15mins in Nature under VR session . After the VR, the participants will be given the ANT assessment with a another possibly survey. A week later the participants will repeat the experiment except with a different time in nature under VR. 
+In essense Assessments -> VR relaxation -> reasssessment -> repeat -> analysis results
+
+In addition we plan to analyze the data using the code R inorder to give a proper visualization
+
+#needs for research methods:
+	Survery (quantative)
+	testing procedure : (Stressor) ANT , backwards digit, measured ANT , Nature VR, Measure ANT
+	Better description of research methods
+	how we plan on manuiplating the data (response time, failure rate)
+	What is significant result, expecation laid by previous work
 
 ## References 
 
