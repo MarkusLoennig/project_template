@@ -69,29 +69,47 @@ Our research question (tbc) is: What is the minimum time for viewing nature scen
 
 #### Our experiment will be structured as following:
 
+**- The first and most important assumption of our experiment set-up is that ART works and that Attention can be restored with the use of nature scences. 
+- We will not have a control group which will watch urban scences or just have a break (same length of time) inside the laboratory. This could be another experiment and/or be a follow up consideration.**
+
+
 - The set up of the experiment will be explained, a short brief on all the following meausurements and the technology used (VR) will be given.
 - The participant are then given a survey on their current mood/behavior and subjective stress level, with quantitative responses (e.g. scale from 1-5) 
 
 
-- The participant will then perform, as the first experiment, an Attention Network Test (ANT), 
+- The participant will then perform, as the first experiment, an Attention Network Test (ANT) 
    - we will measure a.) Reaction Time and b.) Error
    - this is the beginning of the experiment and the results will be the baseline for all further measurements. 
    - this is quantitative data (time, error rate)
 
 
-- It will be followed by other attention intensive (requiring hgh concentration levels to be successful) experiments
+- It will be directly followed by other attention intensive (requiring hgh concentration levels to be successful) experiments, it will not be mentioned as something significant for the testing.
    - Digit Span Forward / Backward Test, Search and Memory Task Test, Sustained Atteintion to Response Tests
    - the intention of these tests is to wear/tire the attentive capability of the participant
    - the results will be recorded and will be given to the participant, but they will NOT be used in the experimental data
    - the overall time of the testing will be about (tbd) 30 minutes, as a compromise between the need to tire the attention of the participant and the time available with/for each participant (volunteers). 
 
-- - The participant will then again perform an Attention Network Test (ANT), 
+
+- The participant will then again perform an Attention Network Test (ANT) as part of their tasks.
    - we will measure a.) Reaction Time and b.) Error again, as the measurement of the effects of attention depletion
    - this is quantitative data (time, error rate)
 
-> response times before and after being in nature under VR.
 
-Test participants are given some attention intensive exams, then give a survey and a baseline ANT test for about 10mins. After these assessments the participants will be given either 10mins or 15mins in Nature under VR session. After the VR, the participants will be given the ANT assessment with a another possibly survey. A week later the participants will repeat the experiment except with a different time in nature under VR. 
+- The participant will then be able to watch 15 minutes of VR nature scenes
+   - The regular "office" chair will be given, as we focus on the visual inputs and effects, not the overall effect of comfortable sensory (touch, body position) environment.
+
+
+- Immediatly after the scene viewing, the participant will perform the ANT again
+   - we will measure a.) Reaction Time and b.) Error again, to measure the effects of possible VR attention restoration (target data!)
+   - this is the baseline for the follow up session, in which the time of VR scene viewing will be reduced (to 10 minutes)
+   - this is quantitative data (time, error rate)
+   
+   
+- The participant are then again given the mood/behavior and subjective stress level survey. (quantitative responses).
+
+
+
+ with a another possibly survey. A week later the participants will repeat the experiment except with a different time in nature under VR. 
 
 In essence Assessments -> VR relaxation -> reassessment -> repeat -> analysis results
 
