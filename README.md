@@ -69,8 +69,8 @@ Our research question (tbc) is: What is the minimum time for viewing nature scen
 
 #### Our experiment will be structured as following:
 
-**- The first and most important assumption of our experiment set-up is that ART works and that Attention can be restored with the use of nature scences. 
-- We will not have a control group which will watch urban scences or just have a break (same length of time) inside the laboratory. This could be another experiment and/or be a follow up consideration.**
+_- The first and most important assumption of our experiment set-up is that ART works and that Attention can be restored with the use of nature scences.
+- We will not have a control group which will watch urban scences or just have a break (same length of time) inside the laboratory. This could be another experiment and/or be a follow up consideration.
 
 
 - The set up of the experiment will be explained, a short brief on all the following meausurements and the technology used (VR) will be given.
