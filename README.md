@@ -119,6 +119,8 @@ _Otherwise the experiment has failed and needs to be re-evaluated (set-up, assum
 
 In addition we plan to analyze the data using the proper tools (tbi), possibly using code R to visualize results.
 
+
+
 #needs for research methods - To Do List
 1. Psychological condition survey (quantative scale) - incl. layout and presentation to participant
 2. ANT software to measure (standardized, incl. time and error recoring) - incl. presentation and handling constrains 
