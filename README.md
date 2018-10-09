@@ -69,11 +69,11 @@ Our research question (tbc) is: What is the minimum time for viewing nature scen
 
 #### Our experiment will be structured as following:
 
-- > We will measure a participants attentiveness at the beginning of the experiment as a baseline for further measurements. 
-- this will be done (tbd) with the Attention Network Test (ANT), where we will measure a.) Reaction Time and b.) Errors
-- this is quantitative dat (time, error rate)
+- We will measure a participants attentiveness at the beginning of the experiment as a baseline for further measurements. 
+   - this will be done (tbd) with the Attention Network Test (ANT), where we will measure a.) Reaction Time and b.) Errors
+   - this is quantitative dat (time, error rate)
 
-> 
+-  
 
 > response times before and after being in nature under VR.
 
