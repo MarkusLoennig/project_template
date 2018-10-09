@@ -61,18 +61,27 @@ Another report discusses the results of a study conducted using Attention Restor
 Since the subject is interdisciplinary by design, there are certain areas in which each member has only very limited knowledge about. 
 The first step of our research was a rough literature research about the different topics and for related and similar work and studies. This led to the current research question, resulting in our research approach and design.  
 
-We have chosen a quantitaive approach.
+We have chosen a quantitative approach.
 
-Our methods and experimetal design will focus on generating and gathering quantative data. We have chosen this approach because we believe quantitative data is easier and more comprehensive to be collected, analyzed, interpreted and visualized. Additionally, the related work has shown that qualitative data is not needed to measure/generate the intended data.
+Our methods and experimental design will focus on generating and gathering quantitative data. We have chosen this approach because we believe quantitative data is easier and more comprehensive to be collected, analyzed, interpreted and visualized. Additionally, the related work has shown that qualitative data is not needed to measure/generate the intended data.
 
-Our research question (tbc) is: What is the minimum time for viewing nature scenes to have a (measureable, significant) positive effect on attention restoration, as described in the Attnetion Restoration Theory (ART).
+Our research question (tbc) is: What is the minimum time for viewing nature scenes to have a (measurable, significant) positive effect on attention restoration, as described in the Attention Restoration Theory (ART).
 
-Our experiment will be structured as following:, where we to plan meassure participants repsonse times before and after being in nature under VR.
+Our experiment will be structured as following:
 
-Test participants are given some attention intensive exams, then give a survey and a baseline ANT test for about 10mins. After these assessments the particpants will be given either 10mins or 15mins in Nature under VR session . After the VR, the participants will be given the ANT assessment with a another possibly survey. A week later the participants will repeat the experiment except with a different time in nature under VR. 
-In essense Assessments -> VR relaxation -> reasssessment -> repeat -> analysis results
+> We will measure a participants attentiveness at the beginning of the experiment as a baseline for further measurements. 
+>> this will be done (tbd) with the Attention Network Test (ANT), where we will measure a.) Reaction Time and b.) Errors
+>> this is quantitative dat (time, error rate)
 
-In addition we plan to analyze the data using the code R inorder to give a proper visualization
+> 
+
+> response times before and after being in nature under VR.
+
+Test participants are given some attention intensive exams, then give a survey and a baseline ANT test for about 10mins. After these assessments the participants will be given either 10mins or 15mins in Nature under VR session. After the VR, the participants will be given the ANT assessment with a another possibly survey. A week later the participants will repeat the experiment except with a different time in nature under VR. 
+
+In essence Assessments -> VR relaxation -> reassessment -> repeat -> analysis results
+
+In addition we plan to analyze the data using the code R in order to give a proper visualization
 
 #needs for research methods:
 	1.Survery (quantative)
