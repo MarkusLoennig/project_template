@@ -117,17 +117,19 @@ _Otherwise the experiment has failed and needs to be re-evaluated (set-up, assum
 
 - The experiment will be repeated after one week (tbd) with a shorter viewing time, reducing the VR recovery from 15 min to 10 minutes.
 
+In addition we plan to analyze the data using the proper tools (tbi), possibly using code R to visualize results.
 
-- analysis results
+#needs for research methods - To Do List
+1. Psychological condition survey (quantative scale) - incl. layout and presentation to participant
+2. ANT software to measure (standardized, incl. time and error recoring) - incl. presentation and handling constrains 
+3. Testing procedure --> Stressors: Digit Span Forward / Backward Test, Search and Memory Task Test, Sustained Atteintion to Response Tests - incl. recoring and visualization of results (standard in software?)
+4. Nature Scene VR software (free/low cost)
+5. Implementation on Vive hardware (tdc) in VR lab (Barbara Ying Building) - time slots, extension of visitors list
+6. Decision on significance of resulting data (threshold, CI) 
+7. Formal description of research methods
+8. Software for analyzing and manipulating the data (response time, failure rate, significance, presentation)
+9. Definition on way ahead, proposal for further studies. 
 
-In addition we plan to analyze the data using the code R in order to give a proper visualization
-
-#needs for research methods:
-	1.Survery (quantative)
-	2. testing procedure : (Stressor) ANT , backwards digit, measured ANT , Nature VR, Measure ANT
-	3. Better description of research methods
-	4. how we plan on manuiplating the data (response time, failure rate)
-	5. What is significant result, expecation laid by previous work
 
 ## References 
 
