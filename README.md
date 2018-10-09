@@ -69,8 +69,8 @@ Our research question (tbc) is: What is the minimum time for viewing nature scen
 
 #### Our experiment will be structured as following:
 
-_- The first and most important assumption of our experiment set-up is that ART works and that Attention can be restored with the use of nature scences.
-- We will not have a control group which will watch urban scences or just have a break (same length of time) inside the laboratory. This could be another experiment and/or be a follow up consideration.
+_The first and most important assumption of our experiment set-up is that ART works and that Attention can be restored with the use of nature scences.
+We will not have a control group which will watch urban scences or just have a break (same length of time) inside the laboratory. This could be another experiment and/or be a follow up consideration._
 
 
 - The set up of the experiment will be explained, a short brief on all the following meausurements and the technology used (VR) will be given.
@@ -108,10 +108,17 @@ _- The first and most important assumption of our experiment set-up is that ART 
 - The participant are then again given the mood/behavior and subjective stress level survey. (quantitative responses).
 
 
+_As a prerequisite to continue the experiment, the results of the first experiment need to be analyzed to make a decision!_
 
- with a another possibly survey. A week later the participants will repeat the experiment except with a different time in nature under VR. 
+_The participants will need to show positive effects on their ANT._
 
-In essence Assessments -> VR relaxation -> reassessment -> repeat -> analysis results
+_Otherwise the experiment has failed and needs to be re-evaluated (set-up, assumptions, execution, environment)._
+
+
+- The experiment will be repeated after one week (tbd) with a shorter viewing time, reducing the VR recovery from 15 min to 10 minutes.
+
+
+- analysis results
 
 In addition we plan to analyze the data using the code R in order to give a proper visualization
 
