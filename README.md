@@ -1,9 +1,9 @@
 # Research Practicum 2018 – Research Plan (Template)
 (text between brackets to be removed)
 
-> * Group Name: Back to nature (- for less stress)
-> * Group participants names: Andres Hanchi, Markus Loennig, Marc Mailloux
-> * Project Title: Restorative benefits of **virtual reality** nature for the **recovery of attentional fatigue** and **stress reduction**
+* Group Name: Back to nature (- for less stress)
+* Group participants names: Andres Hanchi, Markus Loennig, Marc Mailloux
+* Project Title: Restorative benefits of **virtual reality** nature for the **recovery of attentional fatigue** and **stress reduction**
 
 ## General Introduction
 
@@ -40,7 +40,7 @@ In the context of restoring attention and relieving stress, viewing or immersing
 
 (Contributions. An enumeration of the contributions of the senior design project)
 This project makes the following contributions:
-•	Analyzing the difference in nature relaxation times under VR, specfically looking at 5,10, and 15 mins
+- Analyzing the difference in nature relaxation times under VR, specfically looking at 5,10, and 15 mins
 
 ## Related Work
 
@@ -67,11 +67,11 @@ Our methods and experimental design will focus on generating and gathering quant
 
 Our research question (tbc) is: What is the minimum time for viewing nature scenes to have a (measurable, significant) positive effect on attention restoration, as described in the Attention Restoration Theory (ART).
 
-Our experiment will be structured as following:
+#### Our experiment will be structured as following:
 
-> We will measure a participants attentiveness at the beginning of the experiment as a baseline for further measurements. 
->> this will be done (tbd) with the Attention Network Test (ANT), where we will measure a.) Reaction Time and b.) Errors
->> this is quantitative dat (time, error rate)
+- > We will measure a participants attentiveness at the beginning of the experiment as a baseline for further measurements. 
+- this will be done (tbd) with the Attention Network Test (ANT), where we will measure a.) Reaction Time and b.) Errors
+- this is quantitative dat (time, error rate)
 
 > 
 
