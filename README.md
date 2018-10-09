@@ -69,11 +69,25 @@ Our research question (tbc) is: What is the minimum time for viewing nature scen
 
 #### Our experiment will be structured as following:
 
-- We will measure a participants attentiveness at the beginning of the experiment as a baseline for further measurements. 
-   - this will be done (tbd) with the Attention Network Test (ANT), where we will measure a.) Reaction Time and b.) Errors
-   - this is quantitative dat (time, error rate)
+- The set up of the experiment will be explained, a short brief on all the following meausurements and the technology used (VR) will be given.
+- The participant are then given a survey on their current mood/behavior and subjective stress level, with quantitative responses (e.g. scale from 1-5) 
 
--  
+
+- The participant will then perform, as the first experiment, an Attention Network Test (ANT), 
+   - we will measure a.) Reaction Time and b.) Error
+   - this is the beginning of the experiment and the results will be the baseline for all further measurements. 
+   - this is quantitative data (time, error rate)
+
+
+- It will be followed by other attention intensive (requiring hgh concentration levels to be successful) experiments
+   - Digit Span Forward / Backward Test, Search and Memory Task Test, Sustained Atteintion to Response Tests
+   - the intention of these tests is to wear/tire the attentive capability of the participant
+   - the results will be recorded and will be given to the participant, but they will NOT be used in the experimental data
+   - the overall time of the testing will be about (tbd) 30 minutes, as a compromise between the need to tire the attention of the participant and the time available with/for each participant (volunteers). 
+
+- - The participant will then again perform an Attention Network Test (ANT), 
+   - we will measure a.) Reaction Time and b.) Error again, as the measurement of the effects of attention depletion
+   - this is quantitative data (time, error rate)
 
 > response times before and after being in nature under VR.
 
