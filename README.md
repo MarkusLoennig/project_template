@@ -141,6 +141,8 @@ _Otherwise the experiment has failed and needs to be re-evaluated (set-up, assum
 
 In addition we plan to analyze the data using the proper tools (tbi), possibly using code R to visualize results.
 
+![Timeline](https://github.com/valdeezzee/AmesRoom/blob/master/Ames%20Room%20Readings/Huge_Rubber_Duck.jpg)
+
 
 #### needs for research methods - To Do List
 - [ ] 1. Psychological condition survey (quantative scale) - incl. layout and presentation to participant
