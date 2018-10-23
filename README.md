@@ -95,61 +95,70 @@ _The first and most important assumption of our experiment set-up is that ART wo
 We will not have a control group which will watch urban scences or just have a break (same length of time) inside the laboratory. This could be another experiment and/or be a follow up consideration._
 
 
-- The set up of the experiment will be explained, a short brief on all the following meausurements and the technology used (VR) will be given.
-- The participant are then given a survey on their current mood/behavior and subjective stress level, with quantitative responses (e.g. scale from 1-5) 
+- The set up of the experiment will be explained, a short brief on all the following meausurements and the technology used (VR) will be given, the variables to be measured and taken explained in detail.
 
 
-- The participant will then perform, as the first experiment, an Attention Network Test (ANT) 
-   - we will measure a.) Reaction Time and b.) Error
+- The participant are then given 2 surveys as a baseline for their emotional state (which could be a confiding variable)
+   - on their current mood/behavior(PANAS)
+   - on their subjective stress level (DDSQ)
+
+
+- The participant will then perform, as the first experiment, a 2-Back Test 
+   - we will measure a.) Reaction Time and b.) Error rate
    - this is the beginning of the experiment and the results will be the baseline for all further measurements. 
    - this is quantitative data (time, error rate)
 
 
-- It will be directly followed by other attention intensive (requiring hgh concentration levels to be successful) experiments, it will not be mentioned as something significant for the testing.
+- It will be directly followed by other attention intensive (requiring hgh concentration levels to be successful) vigilance task to deplete attention from the participant
    - Digit Span Forward / Backward Test, Search and Memory Task Test, Sustained Atteintion to Response Tests
    - the intention of these tests is to wear/tire the attentive capability of the participant
    - the results will be recorded and will be given to the participant, but they will NOT be used in the experimental data
-   - the overall time of the testing will be about (tbd) 30 minutes, as a compromise between the need to tire the attention of the participant and the time available with/for each participant (volunteers). 
+   - the overall time of the testing (including the base-lining with 2-Back Test) will be about 30-45 minutes, as a compromise between the need to tire the attention of the participant and the time available with/for each participant (volunteers). 
 
 
-- The participant will then again perform an Attention Network Test (ANT) as part of their tasks.
-   - we will measure a.) Reaction Time and b.) Error again, as the measurement of the effects of attention depletion
+- The participant will then again perform a 2-Back Test as part of their tasks.
+   - we will measure a.) Reaction Time and b.) Error again, as the measurement of the effects of attention depletion on their performance levels
    - this is quantitative data (time, error rate)
 
 
-- The participant will then be able to watch 15 minutes of VR nature scenes
+- The participant will then be able to watch 15/10/8 minutes of VR nature scenes (depending on the individual setup)
    - The regular "office" chair will be given, as we focus on the visual inputs and effects, not the overall effect of comfortable sensory (touch, body position) environment.
+   - An "Oculus Go" will be used, with which the participant can select his/her favorite natural environment (forrest, wood, beach, mountains) 
 
 
-- Immediatly after the scene viewing, the participant will perform the ANT again
+- Immediatly after the scene viewing, the participant will perform the 2-Back Test again
    - we will measure a.) Reaction Time and b.) Error again, to measure the effects of possible VR attention restoration (target data!)
-   - this is the baseline for the follow up session, in which the time of VR scene viewing will be reduced (to 10 minutes)
+   - this is also the baseline for the follow up session, in which the time of VR scene viewing will be reduced (to 10 minutes)
    - this is quantitative data (time, error rate)
    
    
-- The participant are then again given the mood/behavior and subjective stress level survey. (quantitative responses).
+- The participant are then given the 2 surveys again (PANAS, DDSQ) as measurement of their emotional state
+   - on their current mood/behavior(PANAS)
+   - on their subjective stress level (DDSQ)
 
 
 _As a prerequisite to continue the experiment, the results of the first experiment need to be analyzed to make a decision!_
 
-_The participants will need to show positive effects on their ANT._
+_The participants will need to show positive effects on their last 2-Back Test (after the VR session).
 
 _Otherwise the experiment has failed and needs to be re-evaluated (set-up, assumptions, execution, environment)._
 
 
-- The experiment will be repeated after one week (tbd) with a shorter viewing time, reducing the VR recovery from 15 min to 10 minutes.
+- The experiment will be repeated after one week with a shorter viewing time, reducing the VR recovery from 15 min to 10 to 8 minutes.
 
-In addition we plan to analyze the data using the proper tools (tbi), possibly using code R to visualize results.
+- Given the time, there will also be a control experiment with no VR session but a guided tour through the (Barbara Ying) building, to remain within urban environment with no "nature" settings.
+
+In addition we plan to analyze the data using the Power Analysis or Qualtrics, possibly using code R to visualize results.
 
 ![Timeline](https://github.com/MarkusLoennig/project_template/blob/master/IMAGES/PictureTimeline.jpg)
 
 
 #### needs for research methods - To Do List
 - [ ] 1. Psychological condition survey (quantative scale) - incl. layout and presentation to participant
-- [ ] 2. ANT software to measure (standardized, incl. time and error recoring) - incl. presentation and handling constrains 
+- [ ] 2. 2-Back Test software to measure (standardized, incl. time and error recoring) - incl. presentation and handling constrains 
 - [ ] 3. Testing procedure --> Stressors: Digit Span Forward / Backward Test, Search and Memory Task Test, Sustained Atteintion to Response Tests - incl. recoring and visualization of results (standard in software?)
-- [ ] 4. Nature Scene VR software (free/low cost)
-- [ ] 5. Implementation on Vive hardware (tdc) in VR lab (Barbara Ying Building) - time slots, extension of visitors list
+- [x] 4. Nature Scene VR software (free/low cost)
+- [X] 5. Implementation of Soft- and Hardware (Oculus Go)
 - [ ] 6. Decision on significance of resulting data (threshold, CI) 
 - [ ] 7. Formal description of research methods
 - [ ] 8. Software for analyzing and manipulating the data (response time, failure rate, significance, presentation)
