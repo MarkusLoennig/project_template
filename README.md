@@ -99,8 +99,8 @@ We will not have a control group which will watch urban scences or just have a b
 
 
 - The participant are then given 2 surveys as a baseline for their emotional state (which could be a confiding variable)
-   - on their current mood/behavior(PANAS)
-   - on their subjective stress level (DDSQ)
+   - on their current mood/behavior (PANAS)
+   - on their subjective stress level (DSSQ)
 
 
 - The participant will then perform, as the first experiment, a 2-Back Test 
@@ -134,7 +134,7 @@ We will not have a control group which will watch urban scences or just have a b
    
 - The participant are then given the 2 surveys again (PANAS, DDSQ) as measurement of their emotional state
    - on their current mood/behavior(PANAS)
-   - on their subjective stress level (DDSQ)
+   - on their subjective stress level (DSSQ)
 
 
 _As a prerequisite to continue the experiment, the results of the first experiment need to be analyzed to make a decision!_
