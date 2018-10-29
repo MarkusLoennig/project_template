@@ -95,6 +95,8 @@ _The first and most important assumption of our experiment set-up is that ART wo
 We will not have a control group which will watch urban scences or just have a break (same length of time) inside the laboratory. This could be another experiment and/or be a follow up consideration._
 
 
+![Timeline](https://github.com/MarkusLoennig/project_template/blob/master/IMAGES/PictureTimeline.jpg)
+
 - The set up of the experiment will be explained, a short brief on all the following meausurements and the technology used (VR) will be given, the variables to be measured and taken explained in detail.
 
 
@@ -149,8 +151,6 @@ _Otherwise the experiment has failed and needs to be re-evaluated (set-up, assum
 - Given the time, there will also be a control experiment with no VR session but a guided tour through the (Barbara Ying) building, to remain within urban environment with no "nature" settings.
 
 In addition we plan to analyze the data using the Power Analysis or Qualtrics, possibly using code R to visualize results.
-
-![Timeline](https://github.com/MarkusLoennig/project_template/blob/master/IMAGES/PictureTimeline.jpg)
 
 
 #### needs for research methods - To Do List
