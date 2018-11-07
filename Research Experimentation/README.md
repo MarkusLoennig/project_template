@@ -34,12 +34,14 @@ Will need to format data after it is collected.
 
 # Operating PEBL:
 
-##Settings for Nback and Test of Attentional Vigilence in PEBL
+## Settings for Nback and Test of Attentional Vigilence in PEBL
 
+### Firstly the heirarchy of the tests in PEBL, should run sequentially. Note the TOAV will take approx 24 minutes
 ![](https://github.com/MarkusLoennig/project_template/blob/master/IMAGES/pebl_settings.png)
  
+ #### Setting parameters for the The Test of Attentional Vigilence(TOAV)
 ![](https://github.com/MarkusLoennig/project_template/blob/master/IMAGES/toav_setting.png)
- 
+ #### Setting parameters for the nback which will go to a max of a 2back
 ![](https://github.com/MarkusLoennig/project_template/blob/master/IMAGES/nback_setting.png)
  
 
