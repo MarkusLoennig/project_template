@@ -36,8 +36,11 @@ Will need to format data after it is collected.
 
 ##Settings for Nback and Test of Attentional Vigilence in PEBL
 
-![](https://github.com/MarkusLoennig/project_template/blob/master/IMAGES/pebl_setting.png)
+![](https://github.com/MarkusLoennig/project_template/blob/master/IMAGES/pebl_settings.png)
+ 
 ![](https://github.com/MarkusLoennig/project_template/blob/master/IMAGES/toav_setting.png)
+ 
 ![](https://github.com/MarkusLoennig/project_template/blob/master/IMAGES/nback_setting.png)
+ 
 
 
