@@ -31,3 +31,13 @@ https://docs.google.com/spreadsheets/d/1OI5r68j5xR3uA4PtlsjqE4EzKNH34E4aJnoEUHvK
 
 Please note for Data Analysis: For 1 experiment the particpant will take the Full DSSQ 2x's and the Mood State 1x
 Will need to format data after it is collected.
+
+# Operating PEBL:
+
+##Settings for Nback and Test of Attentional Vigilence in PEBL
+
+![](https://github.com/MarkusLoennig/project_template/blob/master/IMAGES/pebl_setting.png)
+![](https://github.com/MarkusLoennig/project_template/blob/master/IMAGES/toav_setting.png)
+![](https://github.com/MarkusLoennig/project_template/blob/master/IMAGES/nback_setting.png)
+
+
