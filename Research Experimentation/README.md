@@ -1,3 +1,27 @@
+
+# Participant Coding:
+
+For Testing: 
+(session number) - Participant Initials - T(test number)
+for example
+
+1-MM-T2 corresponds to the first weeks experimentation on the second assessment which is the TOAV.
+For the Questionaires
+
+(test session) - Participants Initials - Q(Survey Number)
+
+2-MM-Q3 corresponds to the second weeks experimentation on the third survey(whole DSSQ)
+
+Q1 = Full DSSQ
+Q2 = Mood DSSQ
+Q3 = Full DSSQ
+
+T1 = nback (baseline)
+T2 = Toav
+T3 = nback (after attention depletion)
+T4 = nback (measurement after restoration)
+
+
 # Need access to the survey? Follow this link to request permission
 
 ### Mood DSSQ 
