@@ -1,20 +1,17 @@
 
-# Participant Coding:
+# Participant Coding for Survey and PEBL:
 
-For Testing: 
+##### For Testing and Questionaires: 
+
 (session number) - Participant Initials - T(test number)
 for example
 
 1-MM-T2 : 1 corresponds to the first weeks experimentation, Participants initals, T2 - the second assessment which is the TOAV
-For the Questionaires
-
-(test session) - Participants Initials - Q(Survey Number)
-
 2-MM-Q3 corresponds to the second weeks experimentation, Participants initials, Q3 on the third survey(whole DSSQ)
 
-Q1 = Full DSSQ
+Q1 = First DSSQ
 Q2 = Mood DSSQ
-Q3 = Full DSSQ
+Q3 = Last DSSQ
 
 T1 = nback (baseline)
 T2 = Toav
@@ -25,6 +22,7 @@ T4 = nback (measurement after restoration)
 # Ready for the Experiment? 
 
 ![Timeline](https://github.com/MarkusLoennig/project_template/blob/master/IMAGES/PictureTimeline.jpg)
+
 ## Link for participants to take Surveys Below:
 
 ### First DSSQ
