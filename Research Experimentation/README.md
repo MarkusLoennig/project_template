@@ -21,7 +21,7 @@ T4 = nback (measurement after restoration)
 
 # Ready for the Experiment? 
 
-![Timeline](https://github.com/MarkusLoennig/project_template/blob/master/IMAGES/PictureTimeline.jpg)
+![Timeline](https://github.com/MarkusLoennig/project_template/blob/master/IMAGES/PictureTimeline2.jpg)
 
 ## Link for participants to take Surveys Below:
 
