@@ -1,0 +1,23 @@
+---------------------------------------------------
+ Report for PEBL Test of Attentional Vigilance
+  (TOAV) Version 0.1
+ PEBL Version 2.0
+ Fri Nov 16 13:30:39 2018
+ Participant Code: 3DST2
+ http://pebl.sf.net
+---------------------------------------------------
+Statistic           Half 1     Half 2     Pooled
+---------------------------------------------------
+Total Trials       320         320         640
+Correct Targets    70          248         318
+Correct Foils      244         64          308
+Correct Trials     314         312         626
+Commission Errors  4           8           12
+Ommission Errors   2           0           2
+Correct RT Mean    450         369         387
+Error RT Mean      629         298         409
+RT Mean            460         367         388
+RT SD              130         74          98
+Anticipations      0           0           0
+Multiple Responses 0           1           1
+---------------------------------------------------
