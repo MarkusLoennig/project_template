@@ -13,14 +13,14 @@ The aim of the research study will be to explore the minimal exposure time in re
 
 ## Abstract 
 
-The Attention Restoration Theory or ART has been shown in several studies that positive effects of nature and/or nature scenes can have on measured attention and even stress. In these studies the researchers use commonly 15 minutes for the participants. 
-The aim of the research study will be to explore the minimal exposure time in regards to the Attention Restoration Theory (ART) using Virtual Reality (VR). At this stage research in ART has shown the positive effects that nature and/or nature scenes can have on measure attention, but in these studies the researchers arbitrarily decided the exposure time. During experimentation the data being collected will by the following validated assessment tools: the Dundee Stress State Questionnaire (DSSQ) , the n-back assessment where n=2 , and Vigilance Test TOAV (Test of Attentional Vigilance). 
+The Attention Restoration Theory or ART has been shown in several studies that positive effects of nature and/or nature scenes can have on measured attention and even stress. In these studies, the researchers use commonly 15 minutes for the participants. 
+The aim of the research study will be to explore the minimal exposure time in regards to the Attention Restoration Theory (ART) using Virtual Reality (VR). At this stage research in ART has shown the positive effects that nature and/or nature scenes can have on measure attention, but in these studies the researchers arbitrarily decided the exposure time. During experimentation the data being collected will by the following validated assessment tools: the Dundee Stress State Questionnaire (DSSQ), the n-back assessment where n=2 , and Vigilance Test TOAV (Test of Attentional Vigilance). 
 
 The process in which the data will be collected from the assessments is as follows: 
 
 DSSQ, 2-back, Vigilance Test, DSSQ (mood only) , 2-back, Break with/without Nature Scenes under VR, 2-back, and finally DSSQ again. 
 
-The quantitive themes we expect correspond to the exposure time relative to the Vigilance test, where there will be a better score in the final 2-back test after the participants views the nature under VR. These assessments are a combination of qualitative (surveys) and quantitive data, and will be analyzed using the programming tool R. The qualitative themes correspond to the surveys given to the participants to determine their perceptions of the present moment and their moods where we are expecting to gather a base line of emotions and see a change in emotional response as the experiment is unfolding. The practical applications of this study are connected to peoples every day lives. 
+The quantitative themes we expect correspond to the exposure time relative to the Vigilance test, where there will be a better score in the final 2-back test after the participants views the nature under VR. These assessments are a combination of qualitative (surveys) and quantitative data, and will be analyzed using the programming tool R. The qualitative themes correspond to the surveys given to the participants to determine their perceptions of the present moment and their moods where we are expecting to gather a base line of emotions and see a change in emotional response as the experiment is unfolding. The practical applications of this study are connected to peoples every day lives. 
 
 Everything today is extremely faced paced with data and information everywhere. Too much information can overload our systems, and as a result stresses us out. There are several areas where directed attention is vital, be it in medicine, engineering or piloting, just to name a few. Many people of today have developed many methods coping with stress and their ability to pay attention at the task at hand. Understanding the time it takes for one attention restoration will plays a huge role in productivity and mental stability. Knowing that nature invokes a restorative response is not enough in todays faced paced world. Therefore it is of importance to determine the general time it takes for someone’s attention to be restored.  
 
@@ -34,9 +34,9 @@ The 2008 study was indeed meant for validation of ART. Their study indeed did th
 
 ![Nature scene in VR](https://github.com/MarkusLoennig/project_template/blob/master/IMAGES/VRnature.jpg)
 
-Today's proposed solutions are pairing this theory with VR methodology, since VR is becoming more accessible. Additionally VR's immersive environment could effect attention restoration in positive ways by simulation Nature in VR. There are several areas where directed attention is vital, be it in medicine, engineering or piloting, just to name a few. But it has much broader real live implications. Directed or focused attention is needed for most of our daily activities, even in the university as a student. While not being vital per definition, the ability to work in a concentrated fashion to deliver outstanding work decides over students’ grades and therefore also at least partly over their/our future. Recovery from directed attention fatigue restores effectiveness, which will have an immediate impact of the overall, general live situation (better, more effective time management). Improving effectiveness, restoring focus and improving the ability to inhibit distractions is self explanatory. Additionally other studies have not looked at the timing it takes for one to relax, just in the variables themselves. From previous studies the ART method has been validated, and so the next question is how long does it take for one to be in a relaxed state. In the context of restoring attention and relieving stress, viewing or immersing in nature has repeatedly shown positive effects. Our research aims at validating/reconstructing some of the more recent research by using nature scenes under Virtual Reality.
+Today's proposed solutions are pairing this theory with VR methodology, since VR is becoming more accessible. Additionally, VR's immersive environment could effect attention restoration in positive ways by simulation Nature in VR. There are several areas where directed attention is vital, be it in medicine, engineering or piloting, just to name a few. But it has much broader real live implications. Directed or focused attention is needed for most of our daily activities, even in the university as a student. While not being vital per definition, the ability to work in a concentrated fashion to deliver outstanding work decides over students’ grades and therefore also at least partly over their/our future. Recovery from directed attention fatigue restores effectiveness, which will have an immediate impact of the overall, general live situation (better, more effective time management). Improving effectiveness, restoring focus and improving the ability to inhibit distractions is self explanatory. Additionally, other studies have not looked at the timing it takes for one to relax, just in the variables themselves. From previous studies the ART method has been validated, and so the next question is how long does it take for one to be in a relaxed state. In the context of restoring attention and relieving stress, viewing or immersing in nature has repeatedly shown positive effects. Our research aims at validating/reconstructing some of the more recent research by using nature scenes under Virtual Reality.
 
-The aim of the research study will be to explore the minimal exposure time in regards to the Attention Restoration Theory(ART) using Virtual Reality(VR). At this stage research in ART has shown the positive effects that nature and/or nature scenes can have on measure attention, but in these studies the researchers arbitrarily decided the exposure time.
+The aim of the research study will be to explore the minimal exposure time in regards to the Attention Restoration Theory (ART) using Virtual Reality (VR). At this stage research in ART has shown the positive effects that nature and/or nature scenes can have on measure attention, but in these studies the researchers arbitrarily decided the exposure time.
 
 
 ## General Introduction
@@ -57,7 +57,7 @@ The observation of "voluntary attention", its effects and needs were first desci
 
 ![Nature scene in VR Oculus Go](https://github.com/MarkusLoennig/project_template/blob/master/IMAGES/GuidedVRscenes2.jpg)
 
-(I tell sutdents to answer the questions, one paragaph each to start if you are lost)
+(I tell students to answer the questions, one paragaph each to start if you are lost)
 
 (Problem Statement. One paragraph to describe the prob-lem that you are tackling.)
 Everything today is extremely faced paced with data and information everywhere. Too much information can overload our systems, and as a result stresses us out. This stress can result from the inability to focus and people of today have developed many methods coping with stress and their ability to pay attention at the task at hand. Studies have shown that when participants surround themselves in Nature or view photos of Nature, this restores the users attention abilities compared to urban areas. This study aims to finding an optimal time when participants view nature settings under VR. 
@@ -66,7 +66,7 @@ Acknowledging that directed attention is highly important and that this process 
 
 (Motivation. Why is this problem interesting and relevant to the research community?)
 
-Improving effectiveness, restoring focus and improving the ability to inhibit distractions is self explainatory. Additionally other studies have not looked at the timing it takes for one to relax, just in the variables themselves. From previous studies the ART method has been validated, and so the next question is how long does it take for one to be in a relaxed state.
+Improving effectiveness, restoring focus and improving the ability to inhibit distractions is self explanatory. Additionally other studies have not looked at the timing it takes for one to relax, just in the variables themselves. From previous studies the ART method has been validated, and so the next question is how long does it take for one to be in a relaxed state.
 
 (Proposed Solution. How do we propose to tackle this problem (that has been identified in the previous para-graphs, is interesting to the community, and has yet to be tackled by other researchers)?)
 
@@ -137,7 +137,7 @@ Our research question is: What is the minimum time for viewing nature scenes to 
    - An "Oculus Go" will be used, with which the participant can select his/her favorite natural environment (forrest, wood, beach, mountains) 
 
 
-- Immediatly after the scene viewing, the participant will perform the 2-Back Test again
+- Immediately after the scene viewing, the participant will perform the 2-Back Test again
    - we will measure a.) Reaction Time and b.) Error again, to measure the effects of possible VR attention restoration (target data!)
    - this is also the baseline for the follow up session, in which the time of VR scene viewing will be reduced (to 10 minutes)
    - this is quantitative data (time, error rate)
@@ -168,7 +168,7 @@ In addition we plan to analyze the data using the Power Analysis or Qualtrics, p
 
 ![Timeline](https://github.com/MarkusLoennig/project_template/blob/master/IMAGES/OculusGo.jpg)
 
-#### Way ahaed
+#### Way ahead
 
 
 
