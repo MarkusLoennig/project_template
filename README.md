@@ -12,7 +12,9 @@ The aim of the research study will be to explore the minimal exposure time in re
 ## Abstract 
 
 The Attention Restoration Theory or ART has been shown in several studies that positive effects of nature and/or nature scenes can have on measured attention and even stress. In these studies the researchers use commonly 15 minutes for the participants. 
-The aim of the research study will be to explore the minimal exposure time in regards to the Attention Restoration Theory(ART) using Virtual Reality(VR). At this stage research in ART has shown the positive effects that nature and/or nature scenes can have on measure attention, but in these studies the researchers arbitrarily decided the exposure time. During experimentation the data being collected will by the following validated assessment tools: the Positive and Negative Affect Schedule (PANAS),the Dundee Stress State Questionnaire (DSSQ) , the n-back assessment where n=2 , and Vigilance Test(NEED THE SPECIFIC TEST NAME HERE). The process in which the data will be collected from the assessments is as follows: PANAS, 2-back, Vigilance Test, PANAS , 2-back, Nature Scenes under VR, 2-back, and finally PANAS. These assessments are a combination of qualitative (surveys) and quantitive data, and will be analyzed using the programming tool R. The quantitive themes we expect correspond to the exposure time relative to the Vigilance test, where there will be a better score  in the final 2-back test after the participants views the nature under VR. The qualitative themes correspond to the surveys given to the participants to determine their perceptions of the present moment and their moods where we are expecting to gather a base line of emotions and see a change in emotional response as the experiment is unfolding. The practical applications of this study are connected to peoples every day lives. Everything today is extremely faced paced with data and information everywhere. Too much information can overload our systems, and as a result stresses us out. There are several areas where directed attention is vital, be it in medicine, engineering or piloting, just to name a few. Many people of today have developed many methods coping with stress and their ability to pay attention at the task at hand. Understanding the time it takes for one attention restoration will plays a huge role in productivity and mental stability. Knowing that nature invokes a restorative response is not enough in todays faced paced world. Therefore it is of importance to determine the general time it takes for someone’s attention to be restored.  
+The aim of the research study will be to explore the minimal exposure time in regards to the Attention Restoration Theory(ART) using Virtual Reality(VR). At this stage research in ART has shown the positive effects that nature and/or nature scenes can have on measure attention, but in these studies the researchers arbitrarily decided the exposure time. During experimentation the data being collected will by the following validated assessment tools: the Dundee Stress State Questionnaire (DSSQ) , the n-back assessment where n=2 , and Vigilance Test TOAV (Test of Attentional Vigilance). The process in which the data will be collected from the assessments is as follows: DSSQ, 2-back, Vigilance Test, DSSQ (mood only) , 2-back, Nature Scenes under VR, 2-back, and finally DSSQ again. 
+
+These assessments are a combination of qualitative (surveys) and quantitive data, and will be analyzed using the programming tool R. The quantitive themes we expect correspond to the exposure time relative to the Vigilance test, where there will be a better score in the final 2-back test after the participants views the nature under VR. The qualitative themes correspond to the surveys given to the participants to determine their perceptions of the present moment and their moods where we are expecting to gather a base line of emotions and see a change in emotional response as the experiment is unfolding. The practical applications of this study are connected to peoples every day lives. Everything today is extremely faced paced with data and information everywhere. Too much information can overload our systems, and as a result stresses us out. There are several areas where directed attention is vital, be it in medicine, engineering or piloting, just to name a few. Many people of today have developed many methods coping with stress and their ability to pay attention at the task at hand. Understanding the time it takes for one attention restoration will plays a huge role in productivity and mental stability. Knowing that nature invokes a restorative response is not enough in todays faced paced world. Therefore it is of importance to determine the general time it takes for someone’s attention to be restored.  
 
 ## NEW introduction
 
@@ -101,8 +103,7 @@ We will not have a control group which will watch urban scences or just have a b
 
 
 - The participant are then given 2 surveys as a baseline for their emotional state (which could be a confiding variable)
-   - on their current mood/behavior (PANAS)
-   - on their subjective stress level (DSSQ)
+   - on their subjective stress and mood level (DSSQ)
 
 
 - The participant will then perform, as the first experiment, a 2-Back Test 
@@ -111,11 +112,10 @@ We will not have a control group which will watch urban scences or just have a b
    - this is quantitative data (time, error rate)
 
 
-- It will be directly followed by other attention intensive (requiring hgh concentration levels to be successful) vigilance task to deplete attention from the participant
-   - Digit Span Forward / Backward Test, Search and Memory Task Test, Sustained Atteintion to Response Tests
+- It will be directly followed by the Test of Attentional Vigilance (TOAV), requiring high concentration levels to be successful to deplete attention from the participant
    - the intention of these tests is to wear/tire the attentive capability of the participant
-   - the results will be recorded and will be given to the participant, but they will NOT be used in the experimental data
-   - the overall time of the testing (including the base-lining with 2-Back Test) will be about 30-45 minutes, as a compromise between the need to tire the attention of the participant and the time available with/for each participant (volunteers). 
+   - the results will be recorded and will be given to the participant, but they will only be used in the experimental data to see if the test was actually successful in tiring out the participant, depleting his attentive vigilance.
+   - the overall time of the testing (including the base-lining with 2-Back Test) before the break will be about 40 minutes, as a compromise between the need to tire the attention of the participant and the time available with/for each participant (volunteers). 
 
 
 - The participant will then again perform a 2-Back Test as part of their tasks.
@@ -123,7 +123,10 @@ We will not have a control group which will watch urban scences or just have a b
    - this is quantitative data (time, error rate)
 
 
-- The participant will then be able to watch 15/10/8 minutes of VR nature scenes (depending on the individual setup)
+- The participant will then 
+	1. take a break watch of 15 min (without VR or nature scenes of any kind) 
+	2. take a break with 15 min of VR nature scenes (scenes depending on the individual)
+	3. take a break with 10 min of VR nature scenes (scenes depending on the individual)
    - The regular "office" chair will be given, as we focus on the visual inputs and effects, not the overall effect of comfortable sensory (touch, body position) environment.
    - An "Oculus Go" will be used, with which the participant can select his/her favorite natural environment (forrest, wood, beach, mountains) 
 
@@ -134,10 +137,8 @@ We will not have a control group which will watch urban scences or just have a b
    - this is quantitative data (time, error rate)
    
    
-- The participant are then given the 2 surveys again (PANAS, DDSQ) as measurement of their emotional state
-   - on their current mood/behavior(PANAS)
-   - on their subjective stress level (DSSQ)
-
+- The participant are then given the survey again (DDSQ) as measurement of their emotional state
+   - on their subjective stress and mood level 
 
 _As a prerequisite to continue the experiment, the results of the first experiment need to be analyzed to make a decision!_
 
@@ -146,23 +147,30 @@ _The participants will need to show positive effects on their last 2-Back Test (
 _Otherwise the experiment has failed and needs to be re-evaluated (set-up, assumptions, execution, environment)._
 
 
-- The experiment will be repeated after one week with a shorter viewing time, reducing the VR recovery from 15 min to 10 to 8 minutes.
+- The experiment will be repeated after one week with a shorter viewing time, reducing the VR recovery from 15 min to 10 minutes.
 
-- Given the time, there will also be a control experiment with no VR session but a guided tour through the (Barbara Ying) building, to remain within urban environment with no "nature" settings.
+- There will also be a control experiment with no VR session but to remain within the current (urban) environment with no "nature" settings.
 
 In addition we plan to analyze the data using the Power Analysis or Qualtrics, possibly using code R to visualize results.
 
 
+#### Results
+
+
+#### Way ahaed
+
+
+
 #### needs for research methods - To Do List
-- [ ] 1. Psychological condition survey (quantative scale) - incl. layout and presentation to participant
-- [ ] 2. 2-Back Test software to measure (standardized, incl. time and error recoring) - incl. presentation and handling constrains 
-- [ ] 3. Testing procedure --> Stressors: Digit Span Forward / Backward Test, Search and Memory Task Test, Sustained Atteintion to Response Tests - incl. recoring and visualization of results (standard in software?)
+- [x] 1. Psychological condition survey (quantative scale) - incl. layout and presentation to participant
+- [x] 2. 2-Back Test software to measure (standardized, incl. time and error recoring) - incl. presentation and handling constrains 
+- [x] 3. Testing procedure --> Stressors: Digit Span Forward / Backward Test, Search and Memory Task Test, Sustained Atteintion to Response Tests - incl. recoring and visualization of results (standard in software?)
 - [x] 4. Nature Scene VR software (free/low cost)
 - [X] 5. Implementation of Soft- and Hardware (Oculus Go)
 - [ ] 6. Decision on significance of resulting data (threshold, CI) 
-- [ ] 7. Formal description of research methods
-- [ ] 8. Software for analyzing and manipulating the data (response time, failure rate, significance, presentation)
-- [ ] 9. Definition on way ahead, proposal for further studies. 
+- [x] 7. Formal description of research methods
+- [x] 8. Software for analyzing and manipulating the data (response time, failure rate, significance, presentation)
+- [x] 9. Definition on way ahead, proposal for further studies. 
 
 
 ## References 
