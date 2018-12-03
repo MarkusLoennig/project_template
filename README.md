@@ -147,6 +147,8 @@ Our research question is: What is the minimum time for viewing nature scenes to 
    - on their subjective stress and mood level 
 
 ![Nature scene available-excerpt](https://github.com/MarkusLoennig/project_template/blob/master/IMAGES/GuidedVRscenes.jpg)
+Several different nature scenes where available, depending on the participants disposition.
+
 
 _As a prerequisite to continue the experiment, the results of the first experiment need to be analyzed to make a decision!_
 
