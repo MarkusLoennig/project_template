@@ -95,7 +95,7 @@ Our research question is: What is the minimum time for viewing nature scenes to 
 
 #### Our experiment will be structured as following:
 
-![Timeline](https://github.com/MarkusLoennig/project_template/blob/master/IMAGES/PictureTimeline.jpg)
+![Timeline](https://github.com/MarkusLoennig/project_template/blob/master/IMAGES/PictureTimeline2.jpg)
 
 - The set up of the experiment will be explained, a short brief on all the following meausurements and the technology used (VR) will be given, the variables to be measured and taken explained in detail.
 
