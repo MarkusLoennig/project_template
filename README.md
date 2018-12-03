@@ -9,6 +9,9 @@
 
 The aim of the research study will be to explore the minimal exposure time in regards to the Attention Restoration Theory (ART) using Virtual Reality (VR). At this stage research in ART has shown the positive effects that nature and/or nature scenes can have on measure attention, but in these studies the researchers arbitrarily decided the exposure time.
 
+![GuidedVR](https://github.com/MarkusLoennig/project_template/blob/master/IMAGES/PictureTimeline2.jpg)
+
+
 ## Abstract 
 
 The Attention Restoration Theory or ART has been shown in several studies that positive effects of nature and/or nature scenes can have on measured attention and even stress. In these studies the researchers use commonly 15 minutes for the participants. 
