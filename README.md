@@ -146,6 +146,8 @@ Our research question is: What is the minimum time for viewing nature scenes to 
 - The participant are then given the survey again (DDSQ) as measurement of their emotional state
    - on their subjective stress and mood level 
 
+![Nature scene available-excerpt](https://github.com/MarkusLoennig/project_template/blob/master/IMAGES/GuidedVRscenes.jpg)
+
 _As a prerequisite to continue the experiment, the results of the first experiment need to be analyzed to make a decision!_
 
 _The participants will need to show positive effects on their last 2-Back Test (after the VR session).
