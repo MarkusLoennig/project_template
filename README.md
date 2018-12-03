@@ -166,6 +166,7 @@ In addition we plan to analyze the data using the Power Analysis or Qualtrics, p
 
 #### Results
 
+![Timeline](https://github.com/MarkusLoennig/project_template/blob/master/IMAGES/OculusGo.jpg)
 
 #### Way ahaed
 
