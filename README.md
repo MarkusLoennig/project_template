@@ -130,7 +130,7 @@ Our research question is: What is the minimum time for viewing nature scenes to 
 
 
 - The participant will then 
-	1. take a break watch of 15 min (without VR or nature scenes of any kind) 
+	1. take a break of 15 min (without VR or nature scenes of any kind) 
 	2. take a break with 15 min of VR nature scenes (scenes depending on the individual)
 	3. take a break with 10 min of VR nature scenes (scenes depending on the individual)
    - The regular "office" chair will be given, as we focus on the visual inputs and effects, not the overall effect of comfortable sensory (touch, body position) environment.
@@ -143,7 +143,7 @@ Our research question is: What is the minimum time for viewing nature scenes to 
    - this is quantitative data (time, error rate)
    
    
-- The participant are then given the survey again (DDSQ) as measurement of their emotional state
+- The participant are then given the survey again (DSSQ) as measurement of their emotional state
    - on their subjective stress and mood level 
 
 ![Nature scene available-excerpt](https://github.com/MarkusLoennig/project_template/blob/master/IMAGES/GuidedVRscenes.jpg)
