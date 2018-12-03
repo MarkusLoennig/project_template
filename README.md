@@ -32,7 +32,7 @@ In order to solve problems, deliver outstanding work or just to work focused and
 
 The 2008 study was indeed meant for validation of ART. Their study indeed did this yet we are interested in the time it takes for once attention to be restored. Specifically in their experiment 2 when participants viewed either urban photos or nature photos that session lasted 10 minutes. Is it possibly for the same result in a smaller amount of time, or will we see a change. 
 
-![Nature scene](https://github.com/MarkusLoennig/project_template/blob/master/IMAGES/GuidedVR_header.jpg)
+![Nature scene in VR Oculus Go](https://github.com/MarkusLoennig/project_template/blob/master/IMAGES/VR%20Nature1.JPG)
 
 Today's proposed solutions are pairing this theory with VR methodology, since VR is becoming more accessible. Additionally VR's immersive environment could effect attention restoration in positive ways by simulation Nature in VR. There are several areas where directed attention is vital, be it in medicine, engineering or piloting, just to name a few. But it has much broader real live implications. Directed or focused attention is needed for most of our daily activities, even in the university as a student. While not being vital per definition, the ability to work in a concentrated fashion to deliver outstanding work decides over students’ grades and therefore also at least partly over their/our future. Recovery from directed attention fatigue restores effectiveness, which will have an immediate impact of the overall, general live situation (better, more effective time management). Improving effectiveness, restoring focus and improving the ability to inhibit distractions is self explanatory. Additionally other studies have not looked at the timing it takes for one to relax, just in the variables themselves. From previous studies the ART method has been validated, and so the next question is how long does it take for one to be in a relaxed state. In the context of restoring attention and relieving stress, viewing or immersing in nature has repeatedly shown positive effects. Our research aims at validating/reconstructing some of the more recent research by using nature scenes under Virtual Reality.
 
@@ -54,6 +54,8 @@ There are several areas where directed attention is vital, be it in medicine, en
 (Put the problem into a historical context, from what does it originate? Are there already some proposed solutions?)
 
 The observation of "voluntary attention", its effects and needs were first descibed by William James (1892). Since then the theory and research have been on hold until about 1985. Most current research was done by Stephen Kaplan. One of the latest studies by Berman aim to validated the Attention Restoration Theory in Nature where participants in nature or viewing pictures of nature reduced their direct attention levels. Today's proposed solutions are pairing this theory with VR methodology, since VR is becoming more accessible. Additionally VR's immercive envirnment could effect attentino restoration in positive ways by simulation Nature in VR. 
+
+![Nature scene in VR Oculus Go](https://github.com/MarkusLoennig/project_template/blob/master/IMAGES/VR%20Nature1.JPG)
 
 (I tell sutdents to answer the questions, one paragaph each to start if you are lost)
 
