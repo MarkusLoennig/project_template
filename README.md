@@ -55,7 +55,7 @@ There are several areas where directed attention is vital, be it in medicine, en
 
 The observation of "voluntary attention", its effects and needs were first descibed by William James (1892). Since then the theory and research have been on hold until about 1985. Most current research was done by Stephen Kaplan. One of the latest studies by Berman aim to validated the Attention Restoration Theory in Nature where participants in nature or viewing pictures of nature reduced their direct attention levels. Today's proposed solutions are pairing this theory with VR methodology, since VR is becoming more accessible. Additionally VR's immercive envirnment could effect attentino restoration in positive ways by simulation Nature in VR. 
 
-![Nature scene in VR Oculus Go](https://github.com/MarkusLoennig/project_template/blob/master/IMAGES/VR%20Nature1.JPG)
+![Nature scene in VR Oculus Go](https://github.com/MarkusLoennig/project_template/blob/master/IMAGES/GuidedVRscenes2.jpg)
 
 (I tell sutdents to answer the questions, one paragaph each to start if you are lost)
 
