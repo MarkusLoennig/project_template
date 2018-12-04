@@ -168,6 +168,13 @@ In addition we plan to analyze the data using the Power Analysis or Qualtrics, p
 
 #### Results
 
+![Results](https://github.com/MarkusLoennig/project_template/blob/master/IMAGES/Run1_results.jpg)
+
+![Results](https://github.com/MarkusLoennig/project_template/blob/master/IMAGES/Run2_results.jpg)
+
+![Results](https://github.com/MarkusLoennig/project_template/blob/master/IMAGES/Run3_results.jpg)
+
+
 
 
 #### Way ahead
