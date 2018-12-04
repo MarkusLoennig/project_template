@@ -195,12 +195,12 @@ The third run/trial was conducted with 10 minutes of a nature scenes delivered b
 
 
 Comparing Trial 2 and Trial 3's response time some results are consistant like in participant 2. Yet in trial 3 we see more of what we are expecting to see in the data. More participants achieve fast reaction times in the 3rd n-back. This difference in the data could be caused from the VR session in trial 2 being too long and participants getting bored. 
-
-![Results](https://github.com/MarkusLoennig/project_template/blob/master/IMAGES/mistakesBoxplot1.png)
-![Results](https://github.com/MarkusLoennig/project_template/blob/master/IMAGES/RTBoxplt.png)
 #### Way ahead
+There isnt enough particpants to see a trend whether the ART works or not. There is some sign but certainly not definitive enough to say one way or the other.There clearly isnt enough data to support the ART theory. Therefore we reject our original hypothesis: “Exposure to nature scenes through VR can measurably restore one’s attention in less than 15 minutes”. In terms of the n-back it seems that for some participants it was too easy and so we would recommend using a 3-back for higher difficulty. Further analysis is needed to be sure that ART is valid in this experimentation. For example looking at the response times per person over all of the trials. Additionally we are not sure that the TOAV actually stresses our participants. In the future we would look to other methods in lowering our particpants attention levels, higher particpant count, and a more detailed analysis of all of our gathered data.L Lastly we would also like to answer new research questions like: can a break be too long? and whats the maximum regeneration of attention? Laslty as a group we learned we should of started earlier with the selection of questionaires, research experimentation, for the analysis of the gathered data. Just because someone else uses a survey doesnt mean we should. Of course we thought using the DSSQ would be useful but didnt have time to process it. Since completeting this research we now have a better understanding of what is needed for this type of venture in terms of time management and planning. 
 
-Further analysis is needed to be sure that ART is valid in this experimentation. 
+
+
+![Results](https://github.com/MarkusLoennig/project_template/blob/master/IMAGES/RTBoxplt.png)
 
 
 #### needs for research methods - To Do List
