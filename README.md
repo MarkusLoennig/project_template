@@ -168,9 +168,18 @@ In addition we plan to analyze the data using the Power Analysis or Qualtrics, p
 
 #### Results
 
-
+Here are the results in graphs, with the number of mistakes (incorrect responses) and the average response time to answer.
 
 ![Results](https://github.com/MarkusLoennig/project_template/blob/master/IMAGES/Run1_results.jpg)
+Trial 1: 15 minutes of break, no nature, no VR
+
+The first run/trial was conducted with 15 minutes of a "normal" break, with no nature scene exposure. 
+
+As for the mistakes, participant 5 and 3 actually improved their performance after the TOAV (attentive depletion) which was unexpected. We assume that to perform the n-back everybody is developing its own strategy to perform and adapt to the task. It seems that both participants overcame their problems with the n-back and were able to find a strategy that works for them. By design, the results should have decreased (increase in the graph). Looking at the response time, that seems to be confirmed for participant 5. 
+
+Otherwise, 
+
+
 
 ![Results](https://github.com/MarkusLoennig/project_template/blob/master/IMAGES/Run2_results.jpg)
 
