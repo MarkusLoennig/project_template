@@ -177,11 +177,16 @@ The first run/trial was conducted with 15 minutes of a "normal" break, with no n
 
 As for the mistakes, participant 5 and 3 actually improved their performance after the TOAV (attentive depletion) which was unexpected. We assume that to perform the n-back everybody is developing its own strategy to perform and adapt to the task. It seems that both participants overcame their problems with the n-back and were able to find a strategy that works for them. By design, the results should have decreased (increase in the graph). Looking at the response time, that seems to be confirmed for participant 5. 
 
-Otherwise, 
+Otherwise, the results are inconclusive in regard to the effect of the TOAV (attentive depletion). We cannot confirm that the TOAV actually depleted attention or tired the participants on a objective level. Neither for the incorrect responses nor the response time.
 
 
 
 ![Results](https://github.com/MarkusLoennig/project_template/blob/master/IMAGES/Run2_results.jpg)
+Trial 2: 15 minutes of VR immersed nature scenes as a break
+
+The second run/trial was conducted with 15 minutes of a nature scenes delivered by Virtual Reality (Oculus Go). The nature scenes could be chosen depending on the participant and its disposition (see above for nature scene variety) 
+
+
 
 ![Results](https://github.com/MarkusLoennig/project_template/blob/master/IMAGES/Run3_results.jpg)
 
