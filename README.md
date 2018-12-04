@@ -196,7 +196,7 @@ The third run/trial was conducted with 10 minutes of a nature scenes delivered b
 
 Comparing Trial 2 and Trial 3's response time some results are consistant like in participant 2. Yet in trial 3 we see more of what we are expecting to see in the data. More participants achieve fast reaction times in the 3rd n-back. This difference in the data could be caused from the VR session in trial 2 being too long and participants getting bored.
 
-The plot below was generated to describe each participants average response times in each nback assessment over all trials. This plot can be used to validate if the particpants attention levels have been lowered. We should ideally be seeing larger values for the 2nn n-back and lower for the first and third nback. It is interesting to note particpants 1,3, and 4 have long wiskers for their 3rd nback. It is also interesting to note that the 
+The plot below was generated to describe each participants number of incorrect responses in each nback assessment over all trials. This plot can be used to validate if the particpants attention levels have been lowered. We should ideally be seeing larger values for the 2nn n-back and lower for the first and third nback. It is interesting to note particpants 1,3, and 4 have long boxes wiskers for their 3rd nback. From the data it would seem that we successfully stressed out particpants 1,2, and 5. Additionally we see inverse results for particpant 3. Of course futher analysis is needed. 
 
 ![Results](https://github.com/MarkusLoennig/project_template/blob/master/IMAGES/mistakesBoxplot1.png)
 
