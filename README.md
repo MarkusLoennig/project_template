@@ -136,6 +136,8 @@ Our research question is: What is the minimum time for viewing nature scenes to 
    - The regular "office" chair will be given, as we focus on the visual inputs and effects, not the overall effect of comfortable sensory (touch, body position) environment.
    - An "Oculus Go" will be used, with which the participant can select his/her favorite natural environment (forrest, wood, beach, mountains) 
 
+![Oculus Go](https://github.com/MarkusLoennig/project_template/blob/master/IMAGES/OculusGo.jpg)
+Oculus Go was used in the experiment to immerse in nature scenes
 
 - Immediately after the scene viewing, the participant will perform the 2-Back Test again
    - we will measure a.) Reaction Time and b.) Error again, to measure the effects of possible VR attention restoration (target data!)
@@ -166,7 +168,7 @@ In addition we plan to analyze the data using the Power Analysis or Qualtrics, p
 
 #### Results
 
-![Timeline](https://github.com/MarkusLoennig/project_template/blob/master/IMAGES/OculusGo.jpg)
+
 
 #### Way ahead
 
