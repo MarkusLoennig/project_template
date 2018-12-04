@@ -197,7 +197,7 @@ The third run/trial was conducted with 10 minutes of a nature scenes delivered b
 Comparing Trial 2 and Trial 3's response time some results are consistant like in participant 2. Yet in trial 3 we see more of what we are expecting to see in the data. More participants achieve fast reaction times in the 3rd n-back. This difference in the data could be caused from the VR session in trial 2 being too long and participants getting bored. 
 
 
-![Results](https://github.com/MarkusLoennig/project_template/blob/master/Surveys and Data/Results/Box plot1p1.png)
+![Results](https://github.com/MarkusLoennig/project_template/blob/master/Research Experimentation/Surveys and Data/Results/Box plot1p1.png)
 #### Way ahead
 
 Further analysis is needed to be sure that ART is valid in this experimentation. 
