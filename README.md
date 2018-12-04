@@ -184,14 +184,17 @@ Otherwise, the results are inconclusive in regard to the effect of the TOAV (att
 ![Results](https://github.com/MarkusLoennig/project_template/blob/master/IMAGES/Run2_results.jpg)
 Trial 2: 15 minutes of VR immersed nature scenes as a break
 
-The second run/trial was conducted with 15 minutes of a nature scenes delivered by Virtual Reality (Oculus Go). The nature scenes could be chosen depending on the participant and its disposition (see above for nature scene variety) 
+The second run/trial was conducted with 15 minutes of a nature scenes delivered by Virtual Reality (Oculus Go). The nature scenes could be chosen depending on the participant and its disposition (see above for nature scene variety). Participants 3 and 4 both did worse on the 3rd n-back than their initial nback with respect to the incorrect responses which again is unexpected. Looking at the response time participant 3 had an inverse reaction where they had a faster reaction time after the TOAV. Participants 2 and 5 response ties for trial 2 showed expected results. Both show that the particpant has low initial RT where it increases after the TOAV and later decreasing for the 3rd n-back. Yet looking at participants 2 correctness it seems that even though they were faster in the first and third n-backs that doesnt guarenteed correctness. Participants 1 and 4 achieved constant reaction times with a slight increase in the 3rd n-back. 
 
 
 
 ![Results](https://github.com/MarkusLoennig/project_template/blob/master/IMAGES/Run3_results.jpg)
+Trial 3: 10 minutes of VR immersed nature scenes as a break
+
+The third run/trial was conducted with 10 minutes of a nature scenes delivered by Virtual Reality (Oculus Go). The nature scenes could be chosen depending on the participant and its disposition (see above for nature scene variety). Simiarly to Trial 2, participant 2 responded in a similar manner. Participant 3 progressively got worse in this trial. The response time graphs show that participants 1,2,4 had a decrease in response time after the TOAV, and participant 5 having a slight increase. From the incorrect responses particpants 4 and 5 had lower mistakes in the nback after the TOAV. 
 
 
-
+Comparing Trial 2 and Trial 3's response time some results are consistant like in participant 2. Yet in trial 3 we see more of what we are expecting to see in the data. More participants achieve fast reaction times in the 3rd n-back. This difference in the data could be caused from the VR session in trial 2 being too long and participants getting bored. 
 
 #### Way ahead
 
